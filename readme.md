@@ -1,4 +1,7 @@
 Cricket World Cup 2022 – Data-Driven Dream XI
+
+
+
 🎯 Objectives
 
 Collect and process cricket data for structured analysis.
@@ -111,5 +114,6 @@ Designed a final integrated dashboard for Playing XI selection.
 Created a data-driven World Playing XI reflecting balance and performance.
 
 Demonstrated the importance of data analytics in sports decision-making.
+
 
 
